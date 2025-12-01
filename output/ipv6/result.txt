@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-29 18:14:59,https://www.freetv.top/migu/608807420.m3u8?migutoken=2a6c4fb9cc8f7f2e3b74e061cd6015c3fac382e2bed56fc0e7ec642cda0243f33539c8b831a81a788ef263a552c1fc2e83f85c3aca1c5ac20b670cab6b54dd26fb6cfd1adfd5a289207103e06b$订阅源
+2025-12-01 18:18:23,https://www.freetv.top/migu/608807420.m3u8?migutoken=2a6c4fb9cc8f7f2e3b74e061cd6015c3fac382e2bed56fc0e7ec642cda0243f33539c8b831a81a788ef263a552c1fc2e83f85c3aca1c5ac20b670cab6b54dd26fb6cfd1adfd5a289207103e06b$订阅源
 
 📺央视频道,#genre#
 CCTV-1,https://www.freetv.top/migu/608807420.m3u8?migutoken=2a6c4fb9cc8f7f2e3b74e061cd6015c3fac382e2bed56fc0e7ec642cda0243f33539c8b831a81a788ef263a552c1fc2e83f85c3aca1c5ac20b670cab6b54dd26fb6cfd1adfd5a289207103e06b$订阅源
@@ -202,3 +202,7 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=cd9ac55fddf5f22ac00
 陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=09026016da7aaebfe2b5209620fc769e607da89e9872bcd4ce9a1aa613405ea811b20cce8e1b873dca65260651de86493b78c99585316805a4c193ef7565454d0b61da13cfee7568a580cd052a$订阅源
 陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=2811d59f756bd877ff82baab357029babfd42a225de3fc15373dd44a1eebc8fbe99b4cb84744baa6a1a884e6234a5608467ca1188361e65f980ee6900e1e4d76728f01cb0b40114546b51af18f$订阅源
 陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=1def8fc5a795051b6066c0acee3c9f7979e83db98566f531e84c3215698393c2ddfa1bd9dc18c26d1b9a3dcdbe9db0e27584cd02a931aea3a44523d5fb6a41c3607487fda0cb774e7ed5ada35f$订阅源
+西藏卫视,http://php.jdshipin.com/xztv.php?id=ws$订阅源
+西藏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225638$订阅源
+新疆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635$订阅源
+云南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444$订阅源
