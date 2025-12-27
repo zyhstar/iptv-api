@@ -1,21 +1,9 @@
 🕘️更新时间,#genre#
-2025-12-25 18:16:31,http://175.8.28.207:9999/tsfile/live/0001_1.m3u8$订阅源
+2025-12-27 18:14:42,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源
 
 📺央视频道,#genre#
-CCTV-1,http://175.8.28.207:9999/tsfile/live/0001_1.m3u8$订阅源
-CCTV-2,http://175.8.28.207:9999/tsfile/live/0002_1.m3u8$订阅源
-CCTV-3,http://175.8.28.207:9999/tsfile/live/0003_1.m3u8$订阅源
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源
-CCTV-4,http://175.8.28.207:9999/tsfile/live/0004_1.m3u8$订阅源
-CCTV-5,http://175.8.28.207:9999/tsfile/live/0005_1.m3u8$订阅源
-CCTV-6,http://175.8.28.207:9999/tsfile/live/0006_1.m3u8$订阅源
 CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104$订阅源
-CCTV-8,http://175.8.28.207:9999/tsfile/live/0008_1.m3u8$订阅源
-CCTV-9,http://175.8.28.207:9999/tsfile/live/0009_1.m3u8$订阅源
-CCTV-10,http://175.8.28.207:9999/tsfile/live/0010_1.m3u8$订阅源
-CCTV-11,http://175.8.28.207:9999/tsfile/live/0011_1.m3u8$订阅源
-CCTV-12,http://175.8.28.207:9999/tsfile/live/0012_1.m3u8$订阅源
-CCTV-14,https://play.kankanlive.com/live/1698423575756915.m3u8$订阅源
 CCTV-15,https://play.kankanlive.com/live/1698423607826914.m3u8$订阅源
 CCTV-17,https://play.kankanlive.com/live/1698423272597921.m3u8$订阅源
 
@@ -40,24 +28,16 @@ CCTV-17,https://play.kankanlive.com/live/1698423272597921.m3u8$订阅源
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8$订阅源
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8$订阅源
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8$订阅源
-山东卫视,http://61.156.228.12:8154/tsfile/live/0131_1.m3u8$订阅源
-山东卫视,http://61.156.228.12/rtp/239.253.254.78:8000$山东联通组播源-cache:61.156.228.12-组播源
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8$订阅源
 陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8$订阅源
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8$订阅源
-四川卫视,http://61.156.228.12:8154/tsfile/live/0123_1.m3u8$订阅源
-四川卫视,http://61.156.228.12/rtp/239.253.254.180:8000$山东联通组播源-cache:61.156.228.12-组播源
-深圳卫视,http://61.156.228.12/rtp/239.253.254.91:8000$山东联通组播源-cache:61.156.228.12-组播源
-天津卫视,http://61.156.228.12:8154/tsfile/live/0135_1.m3u8$订阅源
+天津卫视,http://124.116.183.146:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 天津卫视,http://222.169.85.8:9901/tsfile/live/0135_1.m3u8$订阅源
 天津卫视,http://222.169.85.8:9901/tsfile/live/0135_1.m3u8?key=txiptv&amp;amp;playlive=1&amp;amp;authid=0$订阅源
-天津卫视,http://61.156.228.12/rtp/239.253.254.89:8000$山东联通组播源-cache:61.156.228.12-组播源
 天津卫视,http://124.116.183.146/rtp/239.112.205.74:5140$陕西电信组播源-cache:124.116.183.146-组播源
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8$订阅源
 西藏卫视,http://124.116.183.146/rtp/239.112.205.54:5140$陕西电信组播源-cache:124.116.183.146-组播源
 新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8$订阅源
-新疆卫视,http://61.156.228.12:8154/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 新疆卫视,http://124.116.183.146/rtp/239.112.205.56:5140$陕西电信组播源-cache:124.116.183.146-组播源
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8$订阅源
-云南卫视,http://61.156.228.12/rtp/239.253.254.196:8000$山东联通组播源-cache:61.156.228.12-组播源
 云南卫视,http://124.116.183.146/rtp/239.112.205.58:5140$陕西电信组播源-cache:124.116.183.146-组播源
