@@ -1,21 +1,24 @@
 🕘️更新时间,#genre#
-2026-05-13 19:57:04,http://74.91.26.218:82/live/cctv1hd.m3u8$订阅源
+2026-05-15 19:49:30,http://74.91.26.218:82/live/cctv1hd.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8$订阅源
+CCTV-1,http://124.228.160.176:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-2,http://74.91.26.218:82/live/cctv2hd.m3u8$订阅源
 CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8$订阅源
 CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub$订阅源
 CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009$订阅源
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源
+CCTV-4,http://124.228.160.176:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub$订阅源
 CCTV-5,http://74.91.26.218:82/live/cctv5hd.m3u8$订阅源
-CCTV-5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009$订阅源
+CCTV-5,http://124.228.160.176:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-5+,http://192.151.150.154/live/cctv5p.m3u8$订阅源
+CCTV-5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009$订阅源
 CCTV-5+,http://74.91.26.218:82/live/cctv5p.m3u8$订阅源
+CCTV-6,http://124.228.160.176:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009$订阅源
 CCTV-7,http://74.91.26.218:82/live/cctv7hd.m3u8$订阅源
-CCTV-7,http://112.27.235.94:8000/hls/8/index.m3u8$订阅源
 CCTV-8,http://74.91.26.218:82/live/cctv8hd.m3u8$订阅源
 CCTV-8,http://112.27.235.94:8000/hls/9/index.m3u8$订阅源
 CCTV-9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub$订阅源
@@ -26,6 +29,7 @@ CCTV-10,http://74.91.26.218:82/live/cctv10hd.m3u8$订阅源
 CCTV-10,http://112.27.235.94:8000/hls/11/index.m3u8$订阅源
 CCTV-11,http://74.91.26.218:82/live/cctv11hd.m3u8$订阅源
 CCTV-11,http://112.27.235.94:8000/hls/12/index.m3u8$订阅源
+CCTV-11,http://124.228.160.176:9901/tsfile/live/0011_2.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-12,http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub$订阅源
 CCTV-12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009$订阅源
 CCTV-12,http://74.91.26.218:82/live/cctv12hd.m3u8$订阅源
@@ -35,6 +39,7 @@ CCTV-13,http://112.27.235.94:8000/hls/14/index.m3u8$订阅源
 CCTV-14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009$订阅源
 CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8$订阅源
 CCTV-14,http://112.27.235.94:8000/hls/15/index.m3u8$订阅源
+CCTV-14,http://124.228.160.176:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-15,http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub$订阅源
 CCTV-15,http://74.91.26.218:82/live/cctv15hd.m3u8$订阅源
 CCTV-15,http://112.27.235.94:8000/hls/16/index.m3u8$订阅源
@@ -45,10 +50,10 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8$订阅源
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8$订阅源
 广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub$订阅源
 广东卫视,http://112.27.235.94:8000/hls/30/index.m3u8$订阅源
+广东卫视,http://124.228.160.176:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$订阅源
 湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009$订阅源
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$订阅源
-湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$订阅源
 湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8$订阅源
 湖南卫视,http://112.27.235.94:8000/hls/31/index.m3u8$订阅源
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$订阅源
@@ -64,6 +69,7 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8$订阅源
 黑龙江卫视,http://112.27.235.94:8000/hls/48/index.m3u8$订阅源
 安徽卫视,http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub$订阅源
 安徽卫视,http://112.27.235.94:8000/hls/26/index.m3u8$订阅源
+安徽卫视,http://124.228.160.176:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8$订阅源
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8$订阅源
 重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub$订阅源
@@ -73,6 +79,7 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8$订阅源
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8$订阅源
 东南卫视,http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub$订阅源
 东南卫视,http://112.27.235.94:8000/hls/38/index.m3u8$订阅源
+东南卫视,http://124.228.160.176:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8$订阅源
 甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub$订阅源
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23$订阅源
@@ -83,14 +90,15 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8$订阅源
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8$订阅源
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8$订阅源
 河北卫视,http://112.27.235.94:8000/hls/39/index.m3u8$订阅源
-河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8$订阅源
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws$订阅源
+河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8$订阅源
 河南卫视,http://112.27.235.94:8000/hls/37/index.m3u8$订阅源
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8$订阅源
 江苏卫视,https://txmov2.a.kwimgs.com/upic/2023/02/07/12/BMjAyMzAyMDcxMjQ3NDlfNzM5MzQzNzIyXzk1NjcxMTk5ODM5XzBfMw==_b_Bb92095c7df3c98b458dd14abf1d4b575.mp4$订阅源
 江苏卫视,http://112.27.235.94:8000/hls/32/index.m3u8$订阅源
 江西卫视,http://satellitepull.cnr.cn/live/wx32jiangxws/playlist.m3u8$订阅源
 江西卫视,http://112.27.235.94:8000/hls/44/index.m3u8$订阅源
+江西卫视,http://124.228.160.176:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 辽宁卫视,http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub$订阅源
 辽宁卫视,http://112.27.235.94:8000/hls/47/index.m3u8$订阅源
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8$订阅源
