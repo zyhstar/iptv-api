@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-11-14 01:27:29,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
+2026-11-16 00:44:09,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 
 📡卫视频道,#genre#
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$订阅源
